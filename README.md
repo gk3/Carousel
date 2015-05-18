@@ -1,4 +1,4 @@
-# Week 2: Carousel Prototype
+# Week 2: Carousel
 
 Time spent: ~8-9 hours spent in total
 
